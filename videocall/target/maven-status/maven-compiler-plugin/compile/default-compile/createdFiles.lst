@@ -1,0 +1,5 @@
+com\example\videocall\user\User.class
+com\example\videocall\user\UserService.class
+com\example\videocall\VideocallApplication.class
+com\example\videocall\user\UserController.class
+com\example\videocall\user\User$UserBuilder.class
